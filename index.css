@@ -1,16 +1,31 @@
+header > p {
+  text-align: center; color: midnightblue; font-size: 4rem;
+}
+ .tp {
+  width: 400px;
+}
+.pc {
+  text-align: center;
+}
 body {
   background-color: rgba(237, 180, 47, 0.437);
 }
 p {
-    font-size: xx-large; color: rgb(5, 63, 253);
+  font-size: xx-large;
+  color: rgb(5, 63, 253);
 }
-h1{
-  color: rgb(6, 42, 248);
+h1 {
+  color: rgb(6, 42, 248); text-align: center;
 }
-.flag {
-  width: 500; height: 200;
+footer {
+  text-align: center;
 }
-img {
-  height: 200px; width: 200px;
+.em1 {
+  text-align: center;
 }
-
+.fbook {
+  text-align: center;
+}
+.inst {
+  text-align: center;
+}
